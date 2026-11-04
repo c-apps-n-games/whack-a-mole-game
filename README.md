@@ -2,7 +2,7 @@
 
 A fast browser version of Whack-a-Mole on a 9×9 grid of 81 holes. Whack as many moles as you can in 60 seconds, unlock mole skins and hammers, and collect achievements.
 
-**Play it:** https://c-apps-n-games.github.io/whack-a-mole/
+**Play it:** https://c-apps-n-games.github.io/whack-a-mole-game/
 
 ![Screenshot of the game](screenshot.png)
 
